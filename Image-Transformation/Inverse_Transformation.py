@@ -2,7 +2,7 @@
 import cv2
 import  matplotlib.pyplot as plt
 import numpy as np
-img = cv2.imread('input-image.jpg',0)
+img = cv2.imread('input-image.jpg',0)   #write image path here
 img_inverse = 255 - img
 
 fig = plt.figure(figsize=(15,5))
@@ -14,3 +14,4 @@ plt.imshow(img_inverse,cmap='gray')
 ax.set_title('Inverse Transform',fontsize = 18)
 
 plt.show()
+
