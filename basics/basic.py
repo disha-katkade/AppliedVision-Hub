@@ -1,6 +1,6 @@
 #Read an image, store, change the color, show it, write in a file
 import cv2
-path = 'D:/4th year/10th SEM - INTERIM SEM 2025-26/CSE3010/Practicals/cube.jpg'
+path = 'input image.jpg'   #write input image path here
 img2 = cv2.imread(path)
 #img = cv2.imread(path,0) --- gray
 #img1 = cv2.imread(path,-1) --- unchanged
@@ -11,4 +11,5 @@ while(True):
     if a== 'y':
         break
 file = input('Enter the image name to be saved')
+
 cv2.imwrite(file+'.jpg',img2)
