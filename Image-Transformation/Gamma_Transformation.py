@@ -2,7 +2,7 @@
 import cv2
 import  matplotlib.pyplot as plt
 import numpy as np
-img = cv2.imread('input image.jpg',0)
+img = cv2.imread('input image.jpg',0)    #write image path here
 img1 = img/255.0
 img_power_law_transformation = cv2.pow(img1,1.8) #to change the size of the figure
 
@@ -15,3 +15,4 @@ plt.imshow(img_power_law_transformation,cmap='gray')
 ax.set_title('Power Law Transform',fontsize = 18)
 
 plt.show()
+
