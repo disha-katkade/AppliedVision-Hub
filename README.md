@@ -4,11 +4,11 @@
 ![License](https://img.shields.io/badge/License-MIT-purple)
 ![Platform](https://img.shields.io/badge/Platform-Cross--Platform-lightgrey)
 
-![Stars](https://img.shields.io/github/stars/your-username/AppliedVision-hub?style=flat-square)
-![Forks](https://img.shields.io/github/forks/your-username/AppliedVision-hub?style=flat-square)
-![Issues](https://img.shields.io/github/issues/your-username/AppliedVision-hub?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/your-username/AppliedVision-hub?style=flat-square)
-![Repo Size](https://img.shields.io/github/repo-size/your-username/AppliedVision-hub?style=flat-square)
+![Stars](https://img.shields.io/github/stars/disha-katkade/AppliedVision-hub?style=flat-square)
+![Forks](https://img.shields.io/github/forks/disha-katkade/AppliedVision-hub?style=flat-square)
+![Issues](https://img.shields.io/github/issues/disha-katkade/AppliedVision-hub?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/disha-katkade/AppliedVision-hub?style=flat-square)
+![Repo Size](https://img.shields.io/github/repo-size/disha-katkade/AppliedVision-hub?style=flat-square)
 
 <!-- <p align="center">
   <img src="https://raw.githubusercontent.com/disha-katkade/AppliedVision-hub/main/assets/cv_banner.png" width="600"/>
