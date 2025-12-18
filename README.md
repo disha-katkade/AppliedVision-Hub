@@ -43,3 +43,6 @@ AppliedVision-Hub/
 - Spectral map
 ### 🔸Object detection
 - object detection using Haar Cascade Classifier
+
+## ⚙️Technologies used
+
