@@ -5,7 +5,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Cross--Platform-lightgrey)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/AppliedVision-hub/main/assets/cv_banner.png" width="600"/>
+  <img src="https://raw.githubusercontent.com/disha-katkade/AppliedVision-hub/main/assets/cv_banner.png" width="600"/>
 </p>
 
 # AppliedVision-Hub👁️‍🗨️🔎
