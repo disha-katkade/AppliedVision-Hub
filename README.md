@@ -1,18 +1,26 @@
+<!-- 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green)
 ![Status](https://img.shields.io/badge/Status-Learning%20Project-orange)
 ![License](https://img.shields.io/badge/License-MIT-purple)
 ![Platform](https://img.shields.io/badge/Platform-Cross--Platform-lightgrey)
+-->
 
+<!-- 
 ![Stars](https://img.shields.io/github/stars/disha-katkade/AppliedVision-hub?style=flat-square)
 ![Forks](https://img.shields.io/github/forks/disha-katkade/AppliedVision-hub?style=flat-square)
 ![Issues](https://img.shields.io/github/issues/disha-katkade/AppliedVision-hub?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/disha-katkade/AppliedVision-hub?style=flat-square)
-![Repo Size](https://img.shields.io/github/repo-size/disha-katkade/AppliedVision-hub?style=flat-square)
+![Repo Size](https://img.shields.io/github/repo-size/disha-katkade/AppliedVision-hub?style=flat-square)  
+-->
 
 <!-- <p align="center">
   <img src="https://raw.githubusercontent.com/disha-katkade/AppliedVision-hub/main/assets/cv_banner.png" width="600"/>
 </p> -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=disha-katkade&repo=AppliedVision-hub&theme=dark" />
+</p>
 
 # AppliedVision-Hub👁️‍🗨️🔎
 A curated collection of COMPUTER VISION practical implementations developed while learning core CV concepts.
