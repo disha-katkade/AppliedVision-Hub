@@ -15,7 +15,6 @@ It is intended to:
 - Serve as a personal reference for revision
 - Demonstrate practical exposure to Computer Vision workflows
 
----
 
 ## 📂Repository Structure
 
@@ -53,6 +52,14 @@ AppliedVision-Hub/
 - object detection using Haar Cascade Classifier
 
 ## ⚙️Technologies used
+### ⚙ Tech Stack
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/opencv.png" alt="OpenCV"/>
+  <img src="https://img.icons8.com/color/48/numpy.png" alt="NumPy"/>
+</p>
+
 | Python | OpenCV | NumPy | Matplotlib |
 |:-------|:-------|:------|:----------:|
 
