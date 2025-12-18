@@ -20,3 +20,19 @@ AppliedVision-Hub/
 - `object_detection/`
 - `License`
 - `Readme.md`
+
+## Topics
+### Basics
+- Reading and displaying images
+- Pixel-level operations
+- image properties and dimensions
+### Color Spaces
+- RGB, Grayscale, HSV, LAB, YrCbc Conversions
+- Channel splitting and merging
+- Color-based image analysis
+### Image Transformation
+- log, inverse
+### Edge detection
+- Canny edge detector
+### Feature Visualization
+### Object detection
