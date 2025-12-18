@@ -13,7 +13,7 @@ It is intended to:
 
 `AppliedVision-Hub/`
 |
-|---`basics/`
+`|---basics/`
 | |---
 | |---
 | |---
