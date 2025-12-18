@@ -48,29 +48,29 @@ AppliedVision-Hub/
 
 ## 📑Topics
 ### 🔸Basics
-#### - [x] Reading and displaying images
-#### - [x] Pixel-level operations
-#### - [x] image properties and dimensions
+- [x] Reading and displaying images
+- [x] Pixel-level operations
+- [x] image properties and dimensions
 ### 🔸Color Spaces
-#### - [x] RGB, Grayscale, HSV, LAB, YCrCb Conversions
-#### - [ ] Channel splitting and merging
-#### - Color-based image analysis
+- [x] RGB, Grayscale, HSV, LAB, YCrCb Conversions
+- [ ] Channel splitting and merging
+- [ ] Color-based image analysis
 ### 🔸Image Transformation
-#### - [x] Gamma, log, inverse
-#### - [x] Morphological Operations
+- [x] Gamma, log, inverse
+- [x] Morphological Operations
 ### 🔸Edge detection
-#### - [x] Canny edge detector
-#### - [x] creating ClaHe image
-#### - [x] edgemap
-#### - [x] equalize Histogram technique
-### 🔸Feature Visualization
-#### - [x] Heat map
-#### - [x] Spectral map
+- [x] Canny edge detector
+- [x] creating ClaHe image
+- [x] edgemap
+- [x] equalize Histogram technique
+#### 🔸Feature Visualization
+- [x] Heat map
+- [x] Spectral map
 ### 🔸Object detection
-#### - [x] object detection using Haar Cascade Classifier
+- [x] object detection using Haar Cascade Classifier
 ### Video Processing
-#### - [ ] inverted live video
-#### - [ ] live date and time video processing 
+- [ ] inverted live video
+- [ ] live date and time video processing 
 
 <!--
 ## 📘 Topics Covered
