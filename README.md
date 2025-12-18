@@ -11,34 +11,29 @@ It is intended to:
 
 ## 📂Repository Structure
 
-`AppliedVision-Hub/
-|
-`|---basics/`
-| |---
-| |---
-| |---
-|  
-|---color_spaces/
-| |---
-| |---
-| |---
-|
-|---image_transformation
-| |---
-| |---
-| |---
-|
-|---edge_detection
-| |---
-| |---
-| |---
-|
-|---feature_visualization
-| |---
-| |---
-| |---
-|
-|---object_detection
-|
-|---License
-|---Readme.md
+AppliedVision-Hub/
+- `basics/`
+  - ``
+  - ``
+  - ``
+- `color_spaces/`
+  - ``
+  - ``
+  - ``
+- `image_transformation/`
+  - ``
+  - ``
+  - ``
+- `edge_detection/`
+  - ``
+  - ``
+  - ``
+- `feature_visualization/`
+  - ``
+  - ``
+  - ``
+- `object_detection/`
+  - ``
+  - ``
+- `License`
+- `Readme.md`
