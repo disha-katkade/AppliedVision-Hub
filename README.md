@@ -19,7 +19,7 @@
 </p> -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=disha-katkade&repo=AppliedVision-hub&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=disha-katkade&repo=AppliedVision-Hub&theme=dark" />
 </p>
 
 # AppliedVision-Hub👁️‍🗨️🔎
