@@ -4,6 +4,10 @@
 ![License](https://img.shields.io/badge/License-MIT-purple)
 ![Platform](https://img.shields.io/badge/Platform-Cross--Platform-lightgrey)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/AppliedVision-hub/main/assets/cv_banner.png" width="600"/>
+</p>
+
 # AppliedVision-Hub👁️‍🗨️🔎
 A curated collection of COMPUTER VISION practical implementations developed while learning core CV concepts.
 This repository contains hands-on Python codes demonstrating image processing, transformations, feature visualization, and object detection using OpenCV and related libraries.
