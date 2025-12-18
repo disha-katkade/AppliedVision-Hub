@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green)
+![Status](https://img.shields.io/badge/Status-Learning%20Project-orange)
+![License](https://img.shields.io/badge/License-MIT-purple)
+![Platform](https://img.shields.io/badge/Platform-Cross--Platform-lightgrey)
+
 # AppliedVision-Hub👁️‍🗨️🔎
 A curated collection of COMPUTER VISION practical implementations developed while learning core CV concepts.
 This repository contains hands-on Python codes demonstrating image processing, transformations, feature visualization, and object detection using OpenCV and related libraries.
@@ -50,8 +56,12 @@ AppliedVision-Hub/
 
 ## ▶️How to run the code
 1. Clone the repository
-# 
-`
-git clone
-`
+2. Install required libraries
+3. Navigate to any folder and run
+
+## 🎯Learning Outcome
+- Strong understanding of core Computer Vision concepts
+- Hands-on experience with OpenCV
+- Practical exposure to image processing and analysis
+- Confidence in implementing CV pipelines from scratch
 
