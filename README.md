@@ -11,7 +11,7 @@ It is intended to:
 
 ## 📂Repository Structure
 
-`AppliedVision-Hub/`
+`AppliedVision-Hub/
 |
 `|---basics/`
 | |---
