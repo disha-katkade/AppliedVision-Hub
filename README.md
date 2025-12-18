@@ -22,6 +22,10 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=disha-katkade&repo=AppliedVision-hub&theme=dark" />
 </p>
 
+![Top Language](https://img.shields.io/github/languages/top/disha-katkade/AppliedVision-hub)
+![Languages Count](https://img.shields.io/github/languages/count/disha-katkade/AppliedVision-hub)
+
+
 # AppliedVision-Hub👁️‍🗨️🔎
 A curated collection of COMPUTER VISION practical implementations developed while learning core CV concepts.
 This repository contains hands-on Python codes demonstrating image processing, transformations, feature visualization, and object detection using OpenCV and related libraries.
