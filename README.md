@@ -14,6 +14,7 @@ It is intended to:
 - Reinforce theoretical CV concepts with code
 - Serve as a personal reference for revision
 - Demonstrate practical exposure to Computer Vision workflows
+<hr>
 
 ## 📂Repository Structure
 
