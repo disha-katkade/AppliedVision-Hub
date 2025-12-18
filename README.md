@@ -48,3 +48,9 @@ AppliedVision-Hub/
 | Python | OpenCV | NumPy | Matplotlib |
 |:-------|:-------|:------|:----------:|
 
+## ▶️How to run the code
+1. Clone the repository
+`
+git clone
+`
+
