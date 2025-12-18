@@ -74,3 +74,6 @@ AppliedVision-Hub/
 - Practical exposure to image processing and analysis
 - Confidence in implementing CV pipelines from scratch
 
+> 💡**Note**
+> This repository focuses on *hands-on learning* and practical implementation of core Computer Vision concepts rather than production-level systems.
+
