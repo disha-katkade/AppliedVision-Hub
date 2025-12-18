@@ -45,4 +45,6 @@ AppliedVision-Hub/
 - object detection using Haar Cascade Classifier
 
 ## ⚙️Technologies used
+| Python | OpenCV | NumPy | Matplotlib |
+|:-------|:-------|:------|:----------:|
 
