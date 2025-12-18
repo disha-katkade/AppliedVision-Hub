@@ -48,7 +48,7 @@ AppliedVision-Hub/
 
 ## 📑Topics
 ### 🔸Basics
-- [x]Reading and displaying images
+- [X]Reading and displaying images
 - [x]Pixel-level operations
 - [x]image properties and dimensions
 ### 🔸Color Spaces
