@@ -27,12 +27,15 @@ AppliedVision-Hub/
 - Pixel-level operations
 - image properties and dimensions
 ### Color Spaces
-- RGB, Grayscale, HSV, LAB, YrCbc Conversions
+- RGB, Grayscale, HSV, LAB, YCrCb Conversions
 - Channel splitting and merging
 - Color-based image analysis
 ### Image Transformation
 - log, inverse
 ### Edge detection
 - Canny edge detector
+- creating ClaHe image
+- edgemap
+- equalize Histogram technique
 ### Feature Visualization
 ### Object detection
