@@ -8,3 +8,37 @@ It is intended to:
 - Reinforce theoretical CV concepts with code
 - Serve as a personal reference for revision
 - Demonstrate practical exposure to Computer Vision workflows
+
+## 📂Repository Structure
+
+AppliedVision-Hub/
+|
+|---basics/
+| |---
+| |---
+| |---
+|  
+|---color_spaces/
+| |---
+| |---
+| |---
+|
+|---image_transformation
+| |---
+| |---
+| |---
+|
+|---edge_detection
+| |---
+| |---
+| |---
+|
+|---feature_visualization
+| |---
+| |---
+| |---
+|
+|---object_detection
+|
+|---License
+|---Readme.md
