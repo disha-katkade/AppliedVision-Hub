@@ -4,9 +4,9 @@
 ![License](https://img.shields.io/badge/License-MIT-purple)
 ![Platform](https://img.shields.io/badge/Platform-Cross--Platform-lightgrey)
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/disha-katkade/AppliedVision-hub/main/assets/cv_banner.png" width="600"/>
-</p>
+</p> -->
 
 # AppliedVision-Hub👁️‍🗨️🔎
 A curated collection of COMPUTER VISION practical implementations developed while learning core CV concepts.
