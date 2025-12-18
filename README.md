@@ -22,23 +22,24 @@ AppliedVision-Hub/
 - `Readme.md`
 
 ## 📑Topics
-### Basics
+### 🔸Basics
 - Reading and displaying images
 - Pixel-level operations
 - image properties and dimensions
-### Color Spaces
+### 🔸Color Spaces
 - RGB, Grayscale, HSV, LAB, YCrCb Conversions
 - Channel splitting and merging
 - Color-based image analysis
-### Image Transformation
+### 🔸Image Transformation
 - Gamma, log, inverse
 - Morphological Operations
-### Edge detection
+### 🔸Edge detection
 - Canny edge detector
 - creating ClaHe image
 - edgemap
 - equalize Histogram technique
-### Feature Visualization
+### 🔸Feature Visualization
 - Heat map
 - Spectral map
-### Object detection
+### 🔸Object detection
+- object detection using Haar Cascade Classifier
