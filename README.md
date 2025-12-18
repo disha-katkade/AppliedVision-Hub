@@ -72,6 +72,7 @@ AppliedVision-Hub/
 - [ ] inverted live video
 - [ ] live date and time video processing 
 
+<!--
 ## 📘 Topics Covered
 
 | Category | Concepts Covered | Description |
@@ -83,6 +84,7 @@ AppliedVision-Hub/
 | Feature Visualization | - [x] Heat map | Extracting and visualizing important image features |
 | Object Detection | - [x] object detection using Haar Cascade Classifier | Detecting objects like faces using classical CV techniques |
 | Video Processing | - [ ] inverted live video | Processing live videos with Date and Time |
+-->
 
 ## ⚙ Tech Stack
 
