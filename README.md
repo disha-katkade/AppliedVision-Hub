@@ -48,9 +48,9 @@ AppliedVision-Hub/
 
 ## 📑Topics
 ### 🔸Basics
-- [X]Reading and displaying images
-- [x]Pixel-level operations
-- [x]image properties and dimensions
+- [X] Reading and displaying images
+- [x] Pixel-level operations
+- [x] image properties and dimensions
 ### 🔸Color Spaces
 - RGB, Grayscale, HSV, LAB, YCrCb Conversions
 - Channel splitting and merging
