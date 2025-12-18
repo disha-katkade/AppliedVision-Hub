@@ -72,6 +72,18 @@ AppliedVision-Hub/
 - [ ] inverted live video
 - [ ] live date and time video processing 
 
+## 📘 Topics Covered
+
+| Category | Concepts Covered | Description |
+|--------|------------------|-------------|
+| Basics | - [x] Reading and displaying images | Reading, displaying images and understanding pixel-level operations |
+| Color Spaces | - [x] RGB, Grayscale, HSV, LAB, YCrCb Conversions | Color space conversion and channel analysis |
+| Image Transformation | - [x] Gamma, log, inverse | Geometric transformations applied to images |
+| Edge Detection | - [x] Canny edge detector | Detecting object boundaries using edge operators |
+| Feature Visualization | - [x] Heat map | Extracting and visualizing important image features |
+| Object Detection | - [x] object detection using Haar Cascade Classifier | Detecting objects like faces using classical CV techniques |
+| Video Processing | - [ ] inverted live video | Processing live videos with Date and Time |
+
 ## ⚙ Tech Stack
 
 <p align="left">
