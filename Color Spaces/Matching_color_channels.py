@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-src = 'D:/4th year/10th SEM - INTERIM SEM 2025-26/CSE3010/Practicals/sample image.jpg'
+src = 'sample image.jpg'  #paste input image path
 input_image = cv2.imread(src)
 if input_image is None:
     print('Could not load image', input_image)
@@ -33,3 +33,4 @@ cv2.destroyAllWindows()
 cv2.imshow('Red Channel',red_channel)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+
